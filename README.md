@@ -1,5 +1,5 @@
-# 💫 About Me:
-👯 I’m looking to collaborate with **Kaggle** on beginner-friendly AI/ML projects, competitions, and learning-focused datasets.<br>📖 I regularly write articles on [Medium](https://medium.com/@thvinayani128) about AI, learning journeys, concepts, and tech insights.<br>🤝 I’m looking for help with improving my machine learning skills, real-world AI projects, and open-source contributions.<br>🌱 I’m currently learning Python, Machine Learning fundamentals, Data Science, and AI applications.<br>💬 Ask me about AI basics, Python, student tech projects, learning strategies, and getting started with ML.<br>⚡ Fun fact: I love combining art, creativity, and technology<br>
+# About Me:
+📖 I regularly write articles on [Medium](https://medium.com/@thvinayani128) about life,learning journeys.<br>🤝 I’m looking for help with improving my machine learning skills, real-world AI projects, and open-source contributions.<br>🌱 I’m currently learning how to use docker containers and build efficient pipelines.<br>⚡ Fun fact: I love combining art, creativity, and technology<br>
 
 
 ## 🌐 Socials:
@@ -10,19 +10,5 @@
 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**vinayani-vv/vinayani-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
